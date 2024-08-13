@@ -78,3 +78,5 @@ alpha=0.1
 epochs = 500
 
 training(x2[:,0:1],x2[:,1:2],Y2,alpha,epochs)
+
+hypothesis(theta_array,4,2100)
